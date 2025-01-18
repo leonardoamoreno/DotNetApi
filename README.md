@@ -1,7 +1,7 @@
 
-# Teste Técnico
+# Exemplo de API em .NET Core
 
-Teste técnico de criação de uma API de gerenciamento de Projetos e suas Tarefas.
+API de gerenciamento de Projetos e suas Tarefas.
 
 ## Tecnologias implementadas:
 
