@@ -46,8 +46,3 @@ Docker build e up
 ```bash
   docker-compose up
 ```
-
-
-## Melhorias
-
-Avaliando a capacidade e escalabilidade do projeto, poderíamos criar 2 microserviços para tornar os 2 contextos (Projeto e Tarefa), independentes
